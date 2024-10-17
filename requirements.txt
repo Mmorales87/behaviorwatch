@@ -1,0 +1,6 @@
+pyaudio
+SpeechRecognition
+requests
+typing-extensions
+charset-normalizer
+urllib3
