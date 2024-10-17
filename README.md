@@ -78,7 +78,7 @@ Para evitar el uso de tu contraseña principal de Gmail en la aplicación, es re
      "email": {
          "sender_email": "tu_correo@gmail.com",
          "sender_password": "tu_contraseña_de_aplicación_aquí",
-         "destinatarios": ["moralesgarciamarc@gmail.com", "test@test.com"]
+         "destinatarios": ["correo_soporte_juego@gmail.com", "test@test.com"]
          },
       "insult_words": [
          "aqui todos los",
